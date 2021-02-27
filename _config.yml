@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://habinkim.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
+username: Habin Kim
 user_description: Java와 Spring Boot, 서버와 ElasticSearch에 관심이 많은 개발자입니다.
 user_title: Web BackEnd Developer
 email: danny9643@naver.com
